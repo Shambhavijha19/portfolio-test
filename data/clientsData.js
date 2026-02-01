@@ -10,42 +10,42 @@ import SamsungImage from '../public/images/brands/samsung_gray.png';
 import CanonImage from '../public/images/brands/canon_gray.png';
 import PumaImage from '../public/images/brands/puma_gray.png';
 
-export const clientsHeading = 'Some of the brands I worked with';
+export const clientsHeading = 'Technologies & Tools I Work With';
 
 export const clientsData = [
 	{
 		id: uuidv4(),
-		title: 'Amazon',
+		title: 'Python',
 		img: AmazonImage,
 	},
 	{
 		id: uuidv4(),
-		title: 'Sony',
+		title: 'JavaScript',
 		img: SonyImage,
 	},
 	{
 		id: uuidv4(),
-		title: 'Adidas',
+		title: 'AWS',
 		img: AdidasImage,
 	},
 	{
 		id: uuidv4(),
-		title: 'FILA',
+		title: 'MySQL',
 		img: FilaImage,
 	},
 	{
 		id: uuidv4(),
-		title: 'NB',
+		title: 'Git/GitHub',
 		img: NBImage,
 	},
 	{
 		id: uuidv4(),
-		title: 'SAMSUNG',
+		title: 'Docker',
 		img: SamsungImage,
 	},
 	{
 		id: uuidv4(),
-		title: 'CANON',
+		title: 'Pandas',
 		img: CanonImage,
 	},
 	{
